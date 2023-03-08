@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: rgb(255, 145, 0);
+}
+.image{
+    width: 20%;
+
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-items{
+    display: flex;
+
+}
+.nav-items > li {
+    list-style: none;
+    padding: 20px;
+
+}
+.container {
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 20%;
+}
